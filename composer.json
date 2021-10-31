@@ -63,7 +63,8 @@
 		"wpackagist-plugin/woo-alidropship",
 		"wpackagist-plugin/woocommerce.5.8.0.zip",
 		"wpackagist-plugin/themegrill-demo-importer.1.7.5.zip",
-		"wpackagist-plugin/everest-forms.1.7.8.zip"
+		"wpackagist-plugin/everest-forms.1.7.8.zip",
+		"wpackagist-plugin/yith-woocommerce-wishlist.3.2.0.zip"
 	  ],
 	  "web/app/themes/{$name}/": [
 		"type:wordpress-theme",

@@ -2087,7 +2087,8 @@
             "homepage": "https://wordpress.org/plugins/sendgrid-email-delivery-simplified/"
         },
         {
-            "name": "woo-alidropship",
+            "name": "wpackagist-plugin/woo-alidropship",
+            "type": "wordpress-plugin",
             "version":"1.0.8.2",
             "dist":{
                 "type": "zip",

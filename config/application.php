@@ -110,6 +110,7 @@ define('DB_PASSWORD', env('DB_PASSWORD'));
 define('DB_HOST', env('DB_HOST') ?: 'localhost');
 define('DB_CHARSET', 'utf8mb4');
 define('DB_COLLATE', '');
+define('FS_METHOD', 'direct');
 $table_prefix = env('DB_PREFIX') ?: 'wp_';
 
 /**
@@ -166,4 +167,3 @@ if (env('WP_MULTISITE_MAIN_DOMAIN')) {
 if (!defined('ABSPATH')) {
     define('ABSPATH', $webroot_dir . '/wp/');
 }
-define('FS_METHOD', 'direct');

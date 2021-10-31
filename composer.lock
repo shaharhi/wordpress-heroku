@@ -2112,6 +2112,15 @@
                 "type": "zip",
                 "url":"https://downloads.wordpress.org/theme/estore.1.6.1.zip"
             }
+        },
+        {
+            "name":"wpackagist-plugin/themegrill-demo-importer.1.7.5.zip",
+            "type": "wordpress-plugin",
+            "version":"1.7.5",
+            "dist":{
+                "type": "zip",
+                "url":"https://downloads.wordpress.org/plugin/themegrill-demo-importer.1.7.5.zip"
+            }
         }
     ],
     "packages-dev": [

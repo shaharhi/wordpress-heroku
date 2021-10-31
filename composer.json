@@ -60,7 +60,9 @@
 		"type:wordpress-plugin",
 		"wpackagist-plugin/debug-bar",
 		"wpackagist-plugin/all-in-one-seo-pack",
-		"wpackagist-plugin/woo-alidropship"
+		"wpackagist-plugin/woo-alidropship",
+		"wpackagist-plugin/woocommerce.5.8.0.zip"
+
 	  ],
 	  "web/app/themes/{$name}/": [
 		"type:wordpress-theme"

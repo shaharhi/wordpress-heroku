@@ -2087,6 +2087,15 @@
             "homepage": "https://wordpress.org/plugins/sendgrid-email-delivery-simplified/"
         },
         {
+            "name": "wpackagist-plugin/woocommerce",
+            "type": "wordpress-plugin",
+            "version":"5.8.0",
+            "dist":{
+                "type": "zip",
+                "url":"https://downloads.wordpress.org/plugin/woocommerce.5.8.0.zip"
+            }
+        },
+        {
             "name": "wpackagist-plugin/woo-alidropship",
             "type": "wordpress-plugin",
             "version":"1.0.8.2",

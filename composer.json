@@ -38,7 +38,8 @@
 	"wpackagist-plugin/all-in-one-seo-pack":"4.0.12",
 	"wpackagist-plugin/sendgrid-email-delivery-simplified": "1.11.8",
 	"wpackagist-plugin/redis-cache":"2.0.17",
-	"wpackagist-plugin/debug-bar":"1.1.2"
+	"wpackagist-plugin/debug-bar":"1.1.2",
+	"wpackagist-plugin/woo-alidropship": "1.0.8.2"
   },
   "require-dev": {
 	"heroku/heroku-buildpack-php": "*",

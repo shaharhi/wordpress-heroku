@@ -2103,6 +2103,15 @@
                 "type": "zip",
                 "url":"https://downloads.wordpress.org/plugin/woo-alidropship.zip"
             }
+        },
+        {
+            "name": "wpackagist-theme/estore",
+            "type": "wordpress-theme",
+            "version":"1.6.1",
+            "dist":{
+                "type": "zip",
+                "url":"https://downloads.wordpress.org/theme/estore.1.6.1.zip"
+            }
         }
     ],
     "packages-dev": [
